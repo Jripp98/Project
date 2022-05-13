@@ -29,9 +29,9 @@ Hi👋, My name is Arif Maulana. I'm a student at syiah kuala university and thi
 5. Aktifkan key access menggunakan command artisan seperti berikut:
     <pre><code>php artisan key:generate</code></pre>
 6. Di dalam file .env ubahlah nama database yang ada di .env menjadi restorant
-    <pre><code>DB_DATABASE=restorant</code></pre>
+    <pre><code>DB_DATABASE=pengunjung</code></pre>
 8. Setelah itu buatlah database dengan menggunakan aplikasi RDBMS yang anda punya
-    <pre><code> create database restorant</code></pre>
+    <pre><code> create database pengunjung</code></pre>
 9. Setelah itu hidupkan server web dengan cara sebagai berikut:
     <pre><code>php artisan serve</code></pre>
     
