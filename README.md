@@ -1,5 +1,5 @@
 ## 𝔸ℝ𝔼𝔸 ℙ𝔸ℝ𝕂𝕀ℝ
-![zyro-image (1)](https://user-images.githubusercontent.com/92984375/168343413-5cb6c38d-9641-4d8a-aea9-1e5f12d89491.png)
+   ![zyro-image (1)](https://user-images.githubusercontent.com/92984375/168343413-5cb6c38d-9641-4d8a-aea9-1e5f12d89491.png)
 
 ## About Area Parkir 🤔
 Area Parkir merupakan aplikasi untuk melakukan reservasi atau pemesanan tempat parkir. Aplikasi ini memiliki fitur membuat, mengubah, dan menghapus reservasi. Untuk membuat fitur tersebut tentu saja program ini memakai sistem CRUD yang tersedia pada web development.
