@@ -25,7 +25,7 @@
                 </thead>
             <tbody> 
                 @foreach($pengunjung as $pgj)
-                <tr>
+                <tr style="color:aqua;">
                     <td>{{$pgj->nama}}</td>
                     <td>{{$pgj->plat}}</td>
                     <td>{{$pgj->nomor}}</td>
